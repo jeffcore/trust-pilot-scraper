@@ -1,5 +1,7 @@
 ## Trust Pilot Web Scraper
 
+### Working as of March 2020
+
 Up-to-date web scraper for company reviews on Trust Pilot. The below references did not work on the current version of Trust Pilot.
 
 ### Features:
